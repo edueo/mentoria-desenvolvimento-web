@@ -1,18 +1,21 @@
 # Comandos mais usados
 
-## mkdir (**m**a**k**e **dir**ectory)
+## mkdir (make directory)
 
 Comando para criar diretórios.
 
-## cd (**c**hange **d**irectory)
+## cd (change directory)
 
 Comando para mudar de diretório
 
-## ls (**l**i**s**t)
+## ls (list)
 
 Comando para listar o conteúdo do diretório atual
 
-## pwd (**p**rint **w**ork **d**irectory)
+## pwd (print work directory)
 
 Comando que exibe o caminho do diretório atual
 
+## touch
+
+Criar um arquivo vazio
